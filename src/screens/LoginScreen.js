@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { View, TextInput, TouchableOpacity, Text, StyleSheet } from 'react-native';
+import { View, TextInput, TouchableOpacity, Text, StyleSheet,Dimensions } from 'react-native';
 import { useNavigation } from '@react-navigation/native';
 import { Ionicons } from '@expo/vector-icons';
 import Title from '../components/Title';
@@ -62,7 +62,10 @@ const LoginScreen = ({ navigation }) => {
         value={email}
         onChangeText={setEmail}
       />
+      <TouchableOpacity style={styles.container2}>
       {emailError ? <Text style={styles.errorText}>{emailError}</Text> : null}
+        
+      </TouchableOpacity>
 
       <View style={styles.passwordInputContainer}>
         <TextInput
@@ -78,8 +81,12 @@ const LoginScreen = ({ navigation }) => {
       </View>
 
 
-    
+    <TouchableOpacity style={styles.container2}>
+
+
       {passwordError ? <Text style={styles.errorText}>{passwordError}</Text> : null}
+
+    </TouchableOpacity>
 
       {/* input fields end */}
 
@@ -101,7 +108,7 @@ const styless = StyleSheet.create({
     alignSelf: 'center',
     zIndex: 1,
     top: 12,
-  },
+  }
 });
 
 export default LoginScreen;
