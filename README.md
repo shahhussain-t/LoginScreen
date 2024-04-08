@@ -29,8 +29,17 @@ npm install
 # or
 yarn install
 
-npm run andriod
+npm run andriod <br>
+or
 </p>
+
+
+<h1>Download apk using link:</h1>
+
+<p>https://expo.dev/artifacts/eas/iyEEeftqnLXAzAdzYqpmjZ.apk</p>
+
+
+
 
 
 
@@ -56,9 +65,6 @@ npm run andriod
 <img src='./assets/passwordvaliadation.PNG'  width='600px'>
 
 
-<h1>Download apk using link:</h1>
-
-<p>https://expo.dev/artifacts/eas/iyEEeftqnLXAzAdzYqpmjZ.apk</p>
 
 
 
