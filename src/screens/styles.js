@@ -23,6 +23,14 @@ const styles = StyleSheet.create({
     position: 'relative',
     width: '100%',
   },
+  errorText: {
+    color: 'red',
+    fontSize: 14,
+    marginTop: 5, 
+    marginLeft:25,
+    marginBottom:10,
+    width:400
+  },
 });
 
 export default styles;
