@@ -36,7 +36,7 @@ or
 
 <h1>Download apk using link:</h1>
 
-<p>https://expo.dev/artifacts/eas/iyEEeftqnLXAzAdzYqpmjZ.apk</p>
+<p>https://expo.dev/artifacts/eas/oPEcHKeN4tKcmoshzRQp3a.apk</p>
 
 
 
