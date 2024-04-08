@@ -29,6 +29,7 @@ npm install
 # or
 yarn install
 
+npm run andriod
 </p>
 
 
@@ -47,6 +48,12 @@ yarn install
 
 <br>
 <img src='./assets/loginpage.PNG'  width='600px'>
+
+<br>
+<img src='./assets/emailvalidation.PNG'  width='600px'>
+
+<br>
+<img src='./assets/passwordvaliadation.PNG'  width='600px'>
 
 
 
