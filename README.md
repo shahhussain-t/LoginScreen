@@ -1,26 +1,36 @@
 
 
 
-# LoginScreen
+<h1>Login screen</h1>
 
-This project implements navigation, regex validation, and a password visibility toggle feature.
+<p>This project implements navigation, regex validation, and a password visibility toggle feature.
+</p>
 
-## Features
+<h1>Features</h1>
 
-- Navigation using React Navigation
-- Regex validation for email and password fields
-- Password visibility toggle with eye button
+<p>- Navigation using React Navigation <br>
+- Regex validation for email and password fields<br>
+- Password visibility toggle with eye button<br>
+</p>
 
-## Installation
 
+<h1>Installation</h1>
+
+<p>
 1. Clone the repository.
 2. Navigate to the project directory.
 3. Install dependencies using npm or yarn:
+</p>
 
+
+<p>
 ```bash
 npm install
 # or
 yarn install
+
+</p>
+
 
 
 <br>
@@ -37,6 +47,8 @@ yarn install
 
 <br>
 <img src='./assets/loginpage.PNG'  width='600px'>
+
+
 
 
 
